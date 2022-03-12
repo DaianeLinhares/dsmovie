@@ -5,7 +5,6 @@ import { useEffect, useState } from "react";
 import { MoviePage } from "types/movie";
 import { BASE_URL } from "utils/request";
 
-
 function Listing() {
 
     const [pageNumber, setPageNumber] = useState(0);
@@ -18,7 +17,7 @@ function Listing() {
         number: 0,
         first: true,
         numberOfElements: 0,
-        empty: true,
+        empty: true
     });
 
     useEffect(() => {
@@ -29,9 +28,13 @@ function Listing() {
             });
     }, [pageNumber]);
 
+    const handlePageChance = (newPageNumber : number) =>{
+        setPageNumber(newPageNumber);
+    }
+
     return (
         <>
-            <Pagination />
+            <Pagination page={page} onChange={handlePageChance} />
             <div className="container">
                 <div className="row">
                     {page.content.map(movie => (
