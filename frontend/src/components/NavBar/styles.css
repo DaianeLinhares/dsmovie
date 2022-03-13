@@ -1,6 +1,6 @@
 header {
     height: 60px;
-    background-color: var(--color-primary);
+    background-image: linear-gradient(to bottom, #6a040f, #6a040f, #6a040f, #6a040f, #6a040f, #6e040f, #73030f, #77030f, #81020e, #8a020d, #94020b, #9d0208);
     display: flex;
     align-items: center;
 }

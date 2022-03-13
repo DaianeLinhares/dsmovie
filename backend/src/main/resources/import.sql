@@ -12,7 +12,7 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Anne Frank, Minh
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'A Incrível História de Adaline', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gU84OUm9c4R44Zx8U1YPbCzKqIo.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Frida', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a4hgR6aKoohB6MHni171jbi9BkU.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'A Hora Mais Escura', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fWpjkM77R5o4MV0nxO2cnywkCoJ.jpg);
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Mulher-Maravilha', https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ujQthWB6c0ojlARk28NSTmqidbF.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Mulher-Maravilha', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ujQthWB6c0ojlARk28NSTmqidbF.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'A Incrível Jessica James', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zVWBQx6tsYmVDW9OWI6XIIYh611.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Malala', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lOYrqRKhOrPd5RvWoyTw71KVI6z.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Orange Is the New Black', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/enI85hAm51txs8jUY7PWQXR1Xm5.jpg');
