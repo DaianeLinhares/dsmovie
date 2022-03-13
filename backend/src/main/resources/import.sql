@@ -33,6 +33,8 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Tempos de Guerra
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'O Gambito da Rainha', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hnGdmwFTkz4u5ojbX12orJM2aXl.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'The Old Guard', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/knfExByNW2jCwtmIuwYYxzPKpkm.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Lugar de Mulher', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9VUh1tbBubznBdjV5OomzupyCgL.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'A Anatomia de Grey', 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tWtGNTJUAuiM2O9wv0jejw45Sji.jpg');
+
 
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 1, 5.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 2, 4.0);
