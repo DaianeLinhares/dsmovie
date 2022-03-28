@@ -12,6 +12,6 @@
 - H2
 - JPA
 - Java
-- Postgre
+- PostgreSql
 
 ![image](https://user-images.githubusercontent.com/91790650/160313565-2a9d66b4-1b9f-45c0-877a-d62154baa343.png)
